@@ -71,4 +71,7 @@
     1. creating a function in backends.py
     2. (documents are available at accounts/backends.py)
 
+13. solving incorrect padding error 
+    1. delete undetected sessions object
+    2. documents are available in admins.py
 
